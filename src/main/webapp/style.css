@@ -1,0 +1,23 @@
+.bg-steam-blue {
+	background: #154158;
+}
+
+.bg-steam-dark-blue {
+	background: rgba(15, 22, 32, 0.6);
+}
+
+.bg-steam-light-blue {
+	background: #3a618d;
+}
+
+.bg-steam-dark {
+	background: #171a21;
+}
+
+.bg-steam-grey {
+	background: #425160;
+}
+
+.shadow-white {
+	box-shadow: 4px 2px 4px white;
+}
